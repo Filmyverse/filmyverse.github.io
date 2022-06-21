@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5b5d8ff3c36c46f108018c4d0867433e17675ee8",
+  "SCAN_LINK": "https://polygonscan.com/token/0x5b5d8ff3c36c46f108018c4d0867433e17675ee8",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Filmyverse Fan Pass",
+  "SYMBOL": "Fan Pass",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/hotdoge-lovers-club-original",
+  "SHOW_BACKGROUND": true
+}
